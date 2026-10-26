@@ -1,0 +1,17 @@
+(a) 45 - (+19)
+First Operand  : 00101101 ( 45 )
+Second Operand : 00010011 ( 19 )
+2's Complement : 11101101
+Result Binary  : 00011000
+Result Decimal : 24
+Overflow       : No
+----------------------------------------
+
+(b) (-35) - (-12)
+First Operand  : 11011101 ( -35 )
+Second Operand : 11110100 ( -12 )
+2's Complement : 00001100
+Result Binary  : 11101001
+Result Decimal : -23
+Overflow       : No
+----------------------------------------
